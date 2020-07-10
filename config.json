@@ -1,0 +1,6 @@
+{
+  "subscription_id": "516418a1-d9c1-42cd-a33a-27afc3113f96",
+  "resource_group": "azureml",
+  "workspace_name": "azure-ml",
+  "auth":"interactive_auth"
+}
